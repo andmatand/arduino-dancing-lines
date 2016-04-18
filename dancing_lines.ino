@@ -1,9 +1,4 @@
-// scrolltext demo for Adafruit RGBmatrixPanel library.  // Demonstrates double-buffered animation on our 16x32 RGB LED matrix:
 // http://www.adafruit.com/products/420
-
-// Written by Limor Fried/Ladyada & Phil Burgess/PaintYourDragon
-// for Adafruit Industries.
-// BSD license, all text above must be included in any redistribution.
 
 #include <Adafruit_GFX.h>   // Core graphics library
 #include <RGBmatrixPanel.h> // Hardware-specific library
